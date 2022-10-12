@@ -1,0 +1,551 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/41/trunk/coreipm
+END
+lm75.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/39/trunk/coreipm/lm75.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/24/trunk/coreipm/main.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/21/trunk/coreipm/debug.c
+END
+shm.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/21/trunk/coreipm/shm.c
+END
+rtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/41/trunk/coreipm/rtc.c
+END
+strings.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/34/trunk/coreipm/strings.c
+END
+lm75.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/34/trunk/coreipm/lm75.h
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/34/trunk/coreipm/module.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/34/trunk/coreipm/debug.h
+END
+spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/34/trunk/coreipm/spi.c
+END
+ipmi_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/40/trunk/coreipm/ipmi_test.c
+END
+rtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/21/trunk/coreipm/rtc.h
+END
+mmc_carm.Opt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/24/trunk/coreipm/mmc_carm.Opt
+END
+gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/33/trunk/coreipm/gpio.c
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/21/trunk/coreipm/error.h
+END
+strings.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/21/trunk/coreipm/strings.h
+END
+picmg.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/34/trunk/coreipm/picmg.c
+END
+spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/21/trunk/coreipm/spi.h
+END
+gpio.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/26/trunk/coreipm/gpio.h
+END
+picmg.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/21/trunk/coreipm/picmg.h
+END
+fan.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/21/trunk/coreipm/fan.c
+END
+mmc_carm.Uv2
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/24/trunk/coreipm/mmc_carm.Uv2
+END
+fan.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/21/trunk/coreipm/fan.h
+END
+wd.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/21/trunk/coreipm/wd.c
+END
+Flash.ld
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/25/trunk/coreipm/Flash.ld
+END
+mcmc_carm.Uv2
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/35/trunk/coreipm/mcmc_carm.Uv2
+END
+wd.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/21/trunk/coreipm/wd.h
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/34/trunk/coreipm/serial.c
+END
+ipmc_rv.Opt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/41/trunk/coreipm/ipmc_rv.Opt
+END
+tty.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/40/trunk/coreipm/tty.c
+END
+event.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/34/trunk/coreipm/event.c
+END
+serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/24/trunk/coreipm/serial.h
+END
+event.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/33/trunk/coreipm/event.h
+END
+ipmc_rv.Uv2
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/41/trunk/coreipm/ipmc_rv.Uv2
+END
+a3803_gcc.Opt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/26/trunk/coreipm/a3803_gcc.Opt
+END
+spi_prom.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/21/trunk/coreipm/spi_prom.h
+END
+mmc_rv.Opt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/24/trunk/coreipm/mmc_rv.Opt
+END
+a3803_gcc.Uv2
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/27/trunk/coreipm/a3803_gcc.Uv2
+END
+mmc_gcc.Opt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/26/trunk/coreipm/mmc_gcc.Opt
+END
+mmc_rv.Uv2
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/24/trunk/coreipm/mmc_rv.Uv2
+END
+mcmc.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/35/trunk/coreipm/mcmc.c
+END
+a3803_carm.Opt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/26/trunk/coreipm/a3803_carm.Opt
+END
+ipmcio.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/41/trunk/coreipm/ipmcio.c
+END
+mmc_gcc.Uv2
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/24/trunk/coreipm/mmc_gcc.Uv2
+END
+moduleio.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/34/trunk/coreipm/moduleio.h
+END
+arch.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/41/trunk/coreipm/arch.h
+END
+lpc21nn.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/20/trunk/coreipm/lpc21nn.h
+END
+Startup_carm.s
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/coreipm/Startup_carm.s
+END
+lpc23nn.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/41/trunk/coreipm/lpc23nn.h
+END
+ipmcio.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/41/trunk/coreipm/ipmcio.h
+END
+a3803io.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/34/trunk/coreipm/a3803io.c
+END
+ipmc.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/41/trunk/coreipm/ipmc.c
+END
+a3803_carm.Uv2
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/26/trunk/coreipm/a3803_carm.Uv2
+END
+a3803io.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/34/trunk/coreipm/a3803io.h
+END
+ipmi.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/34/trunk/coreipm/ipmi.c
+END
+ipmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/37/trunk/coreipm/ipmi.h
+END
+remap.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/24/trunk/coreipm/remap.c
+END
+mmcio.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/34/trunk/coreipm/mmcio.c
+END
+amc.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/34/trunk/coreipm/amc.h
+END
+building_ipmi_test.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/40/trunk/coreipm/building_ipmi_test.txt
+END
+mmcio.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/26/trunk/coreipm/mmcio.h
+END
+mmc.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/34/trunk/coreipm/mmc.c
+END
+iopin.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/34/trunk/coreipm/iopin.c
+END
+port_expander.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/coreipm/port_expander.h
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/34/trunk/coreipm/timer.c
+END
+mmc.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/29/trunk/coreipm/mmc.h
+END
+iopin.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/24/trunk/coreipm/iopin.h
+END
+a3803_rv.Opt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/26/trunk/coreipm/a3803_rv.Opt
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/21/trunk/coreipm/timer.h
+END
+req.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/37/trunk/coreipm/req.c
+END
+adc.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/34/trunk/coreipm/adc.c
+END
+ipmi.Uv2
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/11/trunk/coreipm/ipmi.Uv2
+END
+ws.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/34/trunk/coreipm/ws.c
+END
+req.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/37/trunk/coreipm/req.h
+END
+flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/21/trunk/coreipm/flash.c
+END
+ws.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/34/trunk/coreipm/ws.h
+END
+a3803_rv.Uv2
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/27/trunk/coreipm/a3803_rv.Uv2
+END
+flash.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/21/trunk/coreipm/flash.h
+END
+rmcpd.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/40/trunk/coreipm/rmcpd.c
+END
+mcmc_rv.Opt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/38/trunk/coreipm/mcmc_rv.Opt
+END
+rmcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/40/trunk/coreipm/rmcp.h
+END
+mcmcio.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/35/trunk/coreipm/mcmcio.c
+END
+sensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/34/trunk/coreipm/sensor.c
+END
+rmcpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/40/trunk/coreipm/rmcpd.h
+END
+mcmcio.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/37/trunk/coreipm/mcmcio.h
+END
+ipmi_pkt.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/40/trunk/coreipm/ipmi_pkt.c
+END
+i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/34/trunk/coreipm/i2c.c
+END
+sensor.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/34/trunk/coreipm/sensor.h
+END
+mcmc_rv.Uv2
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/38/trunk/coreipm/mcmc_rv.Uv2
+END
+ipmi_pkt.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/40/trunk/coreipm/ipmi_pkt.h
+END
+i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/34/trunk/coreipm/i2c.h
+END

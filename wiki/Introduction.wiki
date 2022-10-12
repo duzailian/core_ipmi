@@ -1,0 +1,12 @@
+#summary Brief introduction to what this software does
+#labels Phase-Requirements
+
+= Introduction =
+
+This [http://www.intel.com/design/servers/ipmi/ani/index.htm animation from Intel] 
+provides a high-level overview of IPMI.
+
+The components and their relations that are within the scope of this project is
+show in the below figure.
+http://coreipm.googlecode.com/svn/wiki/images/Big%20Picture.png
+
